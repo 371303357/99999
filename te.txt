@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 han
 guang
 this is bug
 this is chongtu
+=======
+han
+guang
+this is bug
+this is chongtu
+>>>>>>> d85464b96c256c53aae47510083356a88bd50bfd
